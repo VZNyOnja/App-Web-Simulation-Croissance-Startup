@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yV4qBramntAG/DKOUWM1/zANbkUMcf/UnYvkSFGLdLo=",
+  "Hash": "r5/QBR1zvZc9Kv/lt+HdJcH2JZxbsRy3CiZ36EfKjuI=",
   "Source": "WebApplicationIS",
   "BasePath": "_content/WebApplicationIS",
   "Mode": "Default",
@@ -773,12 +773,12 @@
       "OriginalItemSpec": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-xzsuwm5w0q.gz",
+      "Identity": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-twkt93vr3a.gz",
       "SourceId": "WebApplicationIS",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/WebApplicationIS",
-      "RelativePath": "css/site#[.{fingerprint=xzsuwm5w0q}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=twkt93vr3a}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -787,8 +787,8 @@
       "RelatedAsset": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "tc9zgwplrh",
-      "Integrity": "HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw=",
+      "Fingerprint": "8l0wfzo98d",
+      "Integrity": "BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xzsuwm5w0q",
-      "Integrity": "TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs=",
+      "Fingerprint": "twkt93vr3a",
+      "Integrity": "HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-xzsuwm5w0q.gz",
+      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-twkt93vr3a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001488095238"
+          "Quality": "0.001287001287"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "671"
+          "Value": "776"
         },
         {
           "Name": "ETag",
-          "Value": "\"HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw=\""
+          "Value": "\"BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs=\""
+          "Value": "W/\"HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs="
+          "Value": "sha256-HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1863"
+          "Value": "2453"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs=\""
+          "Value": "\"HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs="
+          "Value": "sha256-HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-xzsuwm5w0q.gz",
+      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-twkt93vr3a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "671"
+          "Value": "776"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw=\""
+          "Value": "\"BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw="
+          "Value": "sha256-BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU="
         }
       ]
     },
     {
-      "Route": "css/site.xzsuwm5w0q.css",
-      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-xzsuwm5w0q.gz",
+      "Route": "css/site.twkt93vr3a.css",
+      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-twkt93vr3a.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001488095238"
+          "Quality": "0.001287001287"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "671"
+          "Value": "776"
         },
         {
           "Name": "ETag",
-          "Value": "\"HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw=\""
+          "Value": "\"BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs=\""
+          "Value": "W/\"HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xzsuwm5w0q"
+          "Value": "twkt93vr3a"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs="
+          "Value": "sha256-HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4="
         }
       ]
     },
     {
-      "Route": "css/site.xzsuwm5w0q.css",
+      "Route": "css/site.twkt93vr3a.css",
       "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1863"
+          "Value": "2453"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs=\""
+          "Value": "\"HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xzsuwm5w0q"
+          "Value": "twkt93vr3a"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TXb/knZTYbQedpGIrxj9YULLb0Pvtly95ZI6ItXp+xs="
+          "Value": "sha256-HVTqdtKBaLMTwo0H4sdZsMR5UeY7rwPjQsxFczxZuV4="
         }
       ]
     },
     {
-      "Route": "css/site.xzsuwm5w0q.css.gz",
-      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-xzsuwm5w0q.gz",
+      "Route": "css/site.twkt93vr3a.css.gz",
+      "AssetFile": "D:\\C# Learning\\WebApplicationIS\\WebApplicationIS\\obj\\Debug\\net9.0\\compressed\\p6bds1aig8-twkt93vr3a.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "671"
+          "Value": "776"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw=\""
+          "Value": "\"BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 27 Apr 2025 16:28:15 GMT"
+          "Value": "Sun, 27 Apr 2025 17:52:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xzsuwm5w0q"
+          "Value": "twkt93vr3a"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HXq6rRFmR70fMwJd0VjE7RkTXexCH7BSjXUwd5iqYyw="
+          "Value": "sha256-BJp+xBbYGabXDqdVkVZMzXomeTsAKSrO2Vb/exkdfqU="
         }
       ]
     },
