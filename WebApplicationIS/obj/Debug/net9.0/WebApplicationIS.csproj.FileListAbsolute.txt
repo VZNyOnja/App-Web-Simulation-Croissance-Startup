@@ -17,7 +17,6 @@ D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplication
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\scopedcss\bundle\WebApplicationIS.styles.css
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\scopedcss\projectbundle\WebApplicationIS.bundle.scp.css
-D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\compressed\p6bds1aig8-b9sayid5wm.gz
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\compressed\z8hblweac0-61n19gt1b8.gz
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\compressed\t4i77wotss-xtxxf3hu2r.gz
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\compressed\01k9g3l1d8-bqjiyaj88i.gz
@@ -97,3 +96,4 @@ D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplication
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplicationIS.genruntimeconfig.cache
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\ref\WebApplicationIS.dll
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplicationIS.sourcelink.json
+D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\compressed\p6bds1aig8-xzsuwm5w0q.gz

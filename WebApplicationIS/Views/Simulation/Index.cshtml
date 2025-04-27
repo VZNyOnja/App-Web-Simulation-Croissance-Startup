@@ -1,16 +1,22 @@
 ﻿@model WebApplicationIS.Models.SimulationModel
 
-<h1>Simulation de croissance d'une startup</h1>
-
 <form asp-action="Index" method="post">
-    <label>Taux de croissance (r) :</label>
-    <input asp-for="R" type="number" placeholder="Entrer le taux" step="0.01" required /><br />
+    <div class="input-data">
+        <div class="form-input">
+            <label class="label-class">Taux de croissance (r) :</label>
+            <input asp-for="R" class="input-class" type="number" asp-placeholder="Entrer le taux" step="0.01" required /><br />
+        </div>                                                   
+                                                                 
+        <div class="form-input">                                 
+            <label class="label-class">Capacité maximale (K) :</label>
+            <input asp-for="K" class="input-class" type="number" asp-placeholder="Entrer la capacité maximale" step="1" required /><br />
+        </div>
 
-    <label>Capacité maximale (K) :</label>
-    <input asp-for="K" type="number" placeholder="Entrer la capacité maximale" step="1" required /><br />
+        <div class="form-input">
+            <label class="label-class">Nombre initial de clients (N0) :</label>
+            <input asp-for="N0" class="input-class" type="number" asp-placeholder="Entrer le nombre initial de clients" step="1" required /><br />
+        </div>
+    </div>
 
-    <label>Nombre initial de clients (N0) :</label>
-    <input asp-for="N0" type="number" placeholder="Entrer le nombre initial de clients" step="1" required /><br />
-
-    <button type="submit">Simuler</button>
+    <button class="simuler-button" type="submit">Simuler</button>
 </form>
