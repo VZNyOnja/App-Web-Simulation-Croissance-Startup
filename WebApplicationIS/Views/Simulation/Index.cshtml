@@ -4,7 +4,7 @@
 
 <form asp-action="Index" method="post">
     <label>Taux de croissance (r) :</label>
-    <input asp-for="R" type="number" step="0.01" required /><br />
+    <input type="number" placeholder="Entrer le taux" /><br />
 
     <label>Capacité maximale (K) :</label>
     <input asp-for="K" type="number" step="1" required /><br />
@@ -14,25 +14,3 @@
 
     <button type="submit">Simuler</button>
 </form>
-
-@if (Model.Resultats != null && Model.Resultats.Count > 0)
-{
-    <h2>Résultats</h2>
-    <table border="1">
-        <thead>
-            <tr>
-                <th>Jour</th>
-                <th>Nombre d'utilisateurs</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var point in Model.Resultats)
-            {
-                <tr>
-                    <td>@point.Temps</td>
-                    <td>@point.Nombre</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}

@@ -96,3 +96,4 @@ D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\refint\WebAppl
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplicationIS.pdb
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplicationIS.genruntimeconfig.cache
 D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\ref\WebApplicationIS.dll
+D:\C# Learning\WebApplicationIS\WebApplicationIS\obj\Debug\net9.0\WebApplicationIS.sourcelink.json
