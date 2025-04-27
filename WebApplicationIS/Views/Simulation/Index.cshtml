@@ -4,13 +4,13 @@
 
 <form asp-action="Index" method="post">
     <label>Taux de croissance (r) :</label>
-    <input type="number" placeholder="Entrer le taux" /><br />
+    <input asp-for="R" type="number" placeholder="Entrer le taux" step="0.01" required /><br />
 
     <label>Capacité maximale (K) :</label>
-    <input asp-for="K" type="number" step="1" required /><br />
+    <input asp-for="K" type="number" placeholder="Entrer la capacité maximale" step="1" required /><br />
 
     <label>Nombre initial de clients (N0) :</label>
-    <input asp-for="N0" type="number" step="1" required /><br />
+    <input asp-for="N0" type="number" placeholder="Entrer le nombre initial de clients" step="1" required /><br />
 
     <button type="submit">Simuler</button>
 </form>
